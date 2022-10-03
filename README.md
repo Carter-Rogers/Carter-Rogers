@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carter-Rogers
 - 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on anything truly!
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me email: carter.d.rogers@gmail.com or text (970)-880-0933
 
 <!---
