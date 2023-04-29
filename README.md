@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Carter-Rogers
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me email: carter.d.rogers@gmail.com or text (970)-880-0933
+# Carter Rogers (he/him/his), Fairfax, OK
+Hello and welcome to my Github page! I enjoy software development as a hobby and job, in no particular order. I have knowledge in a variety of languages from Java to C# and multiple web markup and styling languages like HTML & CSS. 
 
-<!---
-Carter-Rogers/Carter-Rogers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Contact Information
+If you need to get in touch with me, please feel free to reach out at via email at carter.d.rogers@gmail.com.
+
+Happy Coding :)
